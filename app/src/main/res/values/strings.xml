@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Music player app</string>
+    <string name="payment_sting">When the user taps the Android Pay button, the app requests MaskedWallet information. The Masked Wallet contains partial payment information such as billing address, shipping address, masked backing payment instrument number, and cart items. Google returns a MaskedWallet response containing the user\'s wallet information. The app uses this information to present order review screens and other options. For example, the user might want to change their selected payment instrument or add a new shipping address. To complete the order, the app requests the FullWallet. Google passes back FullWallet information, which includes the detailed Android Pay payment credentials for the transaction.</string>
+    <string name="hello_adele">Hello - Adele</string>
+    <string name="single_ladies_beyonce">Single Ladies - Beyonce</string>
+    <string name="time_to_say_goodbye_andrea_bocelli">Time to say goodbye - Andrea Bocelli</string>
+    <string name="my_way_frank_sinatra">My way - Frank Sinatra</string>
+    <string name="i_look_to_you_whitney_houston">I look to you - Whitney Houston</string>
+    <string name="read_all_about_it_emeli_sande">Read all about it - Emeli Sande</string>
+    <string name="attention_charlie_puth">Attention - Charlie Puth</string>
+    <string name="look_what_you_made_me_do_taylor_swift">Look what you made me do - Taylor Swift</string>
+    <string name="adele">Adele</string>
+    <string name="beyonce">Beyonce</string>
+    <string name="andrea_bocelli">Andrea Bocelli</string>
+    <string name="chained_to_the_rhythm_katy_perry">Chained to the rhythm - Katy Perry</string>
+    <string name="frank_sinatra">Frank Sinatra</string>
+    <string name="whitney_houston">Whitney Houston</string>
+    <string name="emeli_sande">Emeli Sande</string>
+    <string name="charlie_puth">Charlie Puth</string>
+    <string name="taylor_swift">Taylor Swift</string>
+    <string name="katy_perry">Katy Perry</string>
+    <string name="Music_Player_discription">This means that a phone includes memory storage for MP3, AAC or similar music files, and software for playing that music. Generally, music can be downloaded into the phone from a computer and played back later through a headset attached to the phone</string>
+    <string name="payment_discription">When the user taps the Android Pay button, the app requests MaskedWallet information. The Masked Wallet contains partial payment information such as billing address, shipping address, masked backing payment instrument number, and cart items. Google returns a MaskedWallet response containing the user\'s wallet information. The app uses this information to present order review screens and other options. For example, the user might want to change their selected payment instrument or add a new shipping address. To complete the order, the app requests the FullWallet. Google passes back FullWallet information, which includes the detailed Android Pay payment credentials for the transaction.</string>
+</resources>
